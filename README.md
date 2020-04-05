@@ -4,7 +4,7 @@ Categorization of items into compatible outfits using a CNN model and a finetune
 ## Dataset description
 Polyvore Outﬁts is a real-world dataset created based on users’ preferences of outﬁt conﬁgurations on an online website named polyvore.com: items within the outﬁts that receive high-ratings are considered compatible and vice versa. It contains a total of 365,054 items and 68,306 outﬁts. The maximum number of items per outﬁt is 19. A visualization of an outﬁt is shown in Figure 1.
 
-![Figure 1: A visualization of a partial outﬁt in the dataset. The number at the bottom of each image is the ID of this item.](readme_images/image1.jpg)
+![Figure 1: A visualization of a partial outﬁt in the dataset. The number at the bottom of each image is the ID of this item.](readme_images/image1.jpg)  
 
 ## File description  
 1. dataloader.py: Data preprocessing and loading.  
