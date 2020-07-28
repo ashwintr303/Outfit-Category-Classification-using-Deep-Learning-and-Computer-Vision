@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1ZCDRRh4wrYDq0O3FOptSlBpQFoe0zHTw/view?usp=shari
 4. tqdm 4.43  
 5. torchvision 0.5  
 6. pillow 7.0.0  
+
 To install the complete list of dependencies, run:  
 ```
 pip install -r requirements.txt
